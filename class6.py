@@ -14,3 +14,4 @@ print("Days the class was full:",count)
 
 total_attendance= sum(attendance)
 print("Total attendance over 5 days:",total_attendance)
+
