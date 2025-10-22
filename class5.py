@@ -21,7 +21,7 @@ course_dict ={
 print ("Dictionary with course names:",course_dict)
 
 for course,count in course_dict.items():
-    print("Course:",{course },"Students:",{count})
+     print("Course:", course, ", Students:", count)
 
 growth_dict = {course: count * 2 for course, count in course_dict.items()}
 print("Expected growth in students:", growth_dict)
