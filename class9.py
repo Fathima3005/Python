@@ -29,7 +29,6 @@ class Bike(Vehicle):
 def calculate_rental(Vehicle):
     return Vehicle.rental_charge()
 
-
 car1 = Car("CAR001", 100.0, 4)
 bike1 = Bike("BIKE001", 80.0, "Scooter")
 
