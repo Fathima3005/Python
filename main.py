@@ -17,8 +17,8 @@ for record in records:
 
 with open("travel_records.json","w") as file:
     json.dump(records,file, indent=4)
+    print(" Travel records saved successfully to 'travel_records.json'")
 
-print(" Travel records saved successfully to 'travel_records.json'")
 
 with open("travel_records.json", "r") as file:
     data = json.load(file)
