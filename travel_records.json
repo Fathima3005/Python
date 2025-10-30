@@ -1,0 +1,17 @@
+[
+    {
+        "city": "Paris",
+        "comment": "Visited the Eiffel Tower",
+        "date": "May 20, 2021 "
+    },
+    {
+        "city": "Tokyo",
+        "comment": "Loved the sushi and cherry blossom",
+        "date": "April 02, 2022 "
+    },
+    {
+        "city": "New York",
+        "comment": "Times square was amazing!",
+        "date": "October 05, 2024 "
+    }
+]
